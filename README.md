@@ -1,1 +1,2 @@
-# Car-Dashboard
+# Car Dashboard
+# By: Jencie Daniel
