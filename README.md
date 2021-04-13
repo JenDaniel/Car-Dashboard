@@ -21,6 +21,7 @@ There are a number of different dashboard designs that are unique to each vehicl
 ### Nissan Dashboard
 <img width="1257" alt="Nissan Dashboard" src="https://user-images.githubusercontent.com/60491494/114626984-1e1b9780-9c7a-11eb-86dc-9790eb31c702.png">
 
+## Common Functions
 
 
 
