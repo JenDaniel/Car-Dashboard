@@ -21,7 +21,14 @@ There are a number of different dashboard designs that are unique to each vehicl
 ### Nissan Dashboard
 <img width="1257" alt="Nissan Dashboard" src="https://user-images.githubusercontent.com/60491494/114626984-1e1b9780-9c7a-11eb-86dc-9790eb31c702.png">
 
-## Common Functions
+## Common Features
+There are a few common features that are included in most car dashboards, and some of the features can be considered to be pros while others can be cons, these include:
+## Pros:
+ ### 1. Circular Speedometer
+ The speedometer displays the current speed of the vehicle. Typically there is a needle that points to the current speed and it pivots with one end that is stationary. As the individual accelerates or decelerates, the needle moves around the circular path. This is a pro because people can clearly view the speed and can regulate the amount of pressure one should apply to the acceleration in order to keep the speed constant.
+ 
+ ### 2. Tachometer
+ The tachometer can help users understand and regulate the amount of power they are demanding from the car when they are driving. The tachometer displays how the vehicle is changing the gears when the 
 
 
 
