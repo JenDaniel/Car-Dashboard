@@ -30,4 +30,9 @@ There are a few common features that are included in most car dashboards, and so
  ### 2. Tachometer
  The tachometer can help users understand and regulate the amount of power they are demanding from the car when they are driving. The tachometer displays how the vehicle is changing the gears when the RPM (rotations per minute) reach a certain point while driving. It is especially useful for manual vehicles because as the RPM goes up, shifting the gear can increase fuel efficiency and help increase the longevity of the engine.
  
- ### 3. 
+ ### 3. Errors and Car Status Symbols
+  Most vehicle dashboards contain a number of symbols that indicate the status of the vehicle being driven. Generally, these symbols light up when there is a change in status for anything associated with the symbol. For example, when one of the tires reads a lot tire pressure, the tire pressure symbol lights up. Similarly, there are many indicators that relay information about the car.
+  
+## Cons
+ ### 1. Limited Information Display
+  When people drive, there is a collaboration betweent the steering wheel dashboard as well as the center dashboard, but there are times when the 
