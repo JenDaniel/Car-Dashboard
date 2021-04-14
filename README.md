@@ -28,7 +28,9 @@ There are a few common features that are included in most car dashboards, and so
  The speedometer displays the current speed of the vehicle. Typically there is a needle that points to the current speed and it pivots with one end that is stationary. As the individual accelerates or decelerates, the needle moves around the circular path. This is a pro because people can clearly view the speed and can regulate the amount of pressure one should apply to the acceleration in order to keep the speed constant.
  
  ### 2. Tachometer
- The tachometer can help users understand and regulate the amount of power they are demanding from the car when they are driving. The tachometer displays how the vehicle is changing the gears when the RPM (rotations per minute) reach a certain point while driving. It is especially useful for manual vehicles because as the RPM goes up, shifting the gear can increase fuel efficiency, 
+ The tachometer can help users understand and regulate the amount of power they are demanding from the car when they are driving. The tachometer displays how the vehicle is changing the gears when the RPM (rotations per minute) reach a certain point while driving. It is especially useful for manual vehicles because as the RPM goes up, shifting the gear can increase fuel efficiency and help increase the longevity of the engine.
+ 
+ ### 3. 
 
 
 
