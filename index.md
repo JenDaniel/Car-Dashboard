@@ -82,5 +82,5 @@ There are a few common features that are included in most car dashboards, and so
 ### Digital display of speed and RPM
  - The digital display will show the driver a clear visual of the speed at which they are traveling. Easy access to that data can help minimize distractions and help with speed regulation.
 
-### A colorful indicator of the status of the fuel and coolant temperature
+### Colorful indicator of the status of the fuel and coolant temperature
  - I introduced colored gradient bars to give a clear indicator of the amount of fuel left. When the tank is full, it shows the entire bar, but as the fuel is used, the bar shows red. The same concept applies for the coolant temperature. As the engine heats up, the gradient will move towards the red side. This will be a clear indicator for low fuel or an overheating engine because the color red is considered to be an evident warning signal.
