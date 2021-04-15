@@ -56,3 +56,10 @@ There are a few common features that are included in most car dashboards, and so
  - Parking-Brake Warning Light
  - Engine-Malfunction Lights
 
+### Rare Features
+ - Navigation System in Steering Dashboard
+ - Fully Digital Display
+ - Heads-Up Display
+ - Collision Warning
+ - Blind Spot Monitoring
+ - Coffee Break Indicator
