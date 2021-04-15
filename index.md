@@ -63,3 +63,12 @@ There are a few common features that are included in most car dashboards, and so
  - Collision Warning
  - Blind Spot Monitoring
  - Coffee Break Indicator
+
+## Controls:
+1. Turn on the vehicle using the key or start button.
+2. Proceed to step on the brake and shift the gear from park to reverse, drive, neutral, etc.
+3. Begin driving. As the accelerator is pressed, the speed of the vehicle increases and the RPM aslo increases to give more power to the car as it is taking off.
+4. One the tachometer goes up to a certain RPM, in order to increase efficiency, the car will shift gears and the RPM will come back down. The changes in the RPM is indicated by the tachometer display.
+5. The user can adjust certain things such as the lights, gear, indicator, and other things by turning those features on and off or changing the setting.
+6. The symbols such as the tire pressure indicator or the seatbelt indicator will light up in order to indicate those warnings.
+
