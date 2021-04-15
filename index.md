@@ -35,4 +35,4 @@ There are a few common features that are included in most car dashboards, and so
   
 ## Cons
  ### 1. Limited Information Display
-  When people drive, there is a collaboration betweent the steering wheel dashboard as well as the center dashboard, but there are times when the 
+  When people drive, there is a collaboration between the steering wheel dashboard as well as the center dashboard, but there are times when information that can be displayed on the steering dashboard are only available on the central dashboard. Something that should be able to be immediately accessed by the driver may include the tire pressure diplay that shows the pressures of  
