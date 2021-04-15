@@ -41,5 +41,18 @@ There are a few common features that are included in most car dashboards, and so
   Although the needle of the speedomete points to the current speed of the vehicle, it is a common preference to have a numerical display that tells the speed without having to follow where the needle is pointing. When the speed is displayed digitally, the driver will have easy visual of the current speed at which the vehicle is traveling.
   
  ### 3. Bright Dashboards
-   There are some vehicles that have very bright dashboards that introduce to many vibrant colors. This can be distracting and confusing for the person operating the vehicle due to all the bright symbols and the introduction of numerous colors.
+   There are some vehicles that have very bright dashboards that introduce to many vibrant colors. This can be distracting and confusing for the person operating the vehicle due to all the bright symbols and the introduction of numerous colors, especially displays that contain colors that are considered to be warning colors such as yellow and red.
    
+## Common Features
+### Some common features of contemporary car dashboards include:
+ - Speedometer
+ - Tachometer
+ - Odometer
+ - Engine Coolant Temperature Gauge
+ - Fuel Gauge
+ - Turn Indicators
+ - Gearshift Position Indicator
+ - Seat Belt Warning Light
+ - Parking-Brake Warning Light
+ - Engine-Malfunction Lights
+
