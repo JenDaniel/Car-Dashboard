@@ -18,7 +18,7 @@ There are a number of different dashboard designs that are unique to each vehicl
 ### Infiniti QX Sport (Concept Car)
 <img width="1166" alt="Infiniti Concept Car Dashboard" src="https://user-images.githubusercontent.com/60491494/114624808-dfd0a900-9c76-11eb-84ce-cf10e4ce42bc.png">
 
-### Nissan Dashboard
+### Nissan
 <img width="1257" alt="Nissan Dashboard" src="https://user-images.githubusercontent.com/60491494/114626984-1e1b9780-9c7a-11eb-86dc-9790eb31c702.png">
 
 ## Common Features
