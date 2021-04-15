@@ -24,23 +24,23 @@ There are a number of different dashboard designs that are unique to each vehicl
 ## Common Features
 There are a few common features that are included in most car dashboards, and some of the features can be considered to be pros while others can be cons, these include:
 ## Pros:
- 1. Circular Speedometer
- ### The speedometer displays the current speed of the vehicle. Typically there is a needle that points to the current speed and it pivots with one end that is stationary. As the individual accelerates or decelerates, the needle moves around the circular path. This is a pro because people can clearly view the speed and can regulate the amount of pressure one should apply to the acceleration in order to keep the speed constant.
+ ### 1. Circular Speedometer
+  The speedometer displays the current speed of the vehicle. Typically there is a needle that points to the current speed and it pivots with one end that is stationary. As the individual accelerates or decelerates, the needle moves around the circular path. This is a pro because people can clearly view the speed and can regulate the amount of pressure one should apply to the acceleration in order to keep the speed constant.
  
- 2. Tachometer
+ ### 2. Tachometer
  The tachometer can help users understand and regulate the amount of power they are demanding from the car when they are driving. The tachometer displays how the vehicle is changing the gears when the RPM (rotations per minute) reach a certain point while driving. It is especially useful for manual vehicles because as the RPM goes up, shifting the gear can increase fuel efficiency and help increase the longevity of the engine.
  
- 3. Errors and Car Status Symbols
+ ### 3. Errors and Car Status Symbols
   Most vehicle dashboards contain a number of symbols that indicate the status of the vehicle being driven. Generally, these symbols light up when there is a change in status for anything associated with the symbol. For example, when one of the tires reads a lot tire pressure, the tire pressure symbol lights up. Similarly, there are many indicators that relay information about the car.
   
 ## Cons
-  1. Limited Information Display
+  ### 1. Limited Information Display
   When people drive, there is a collaboration between the steering wheel dashboard as well as the center dashboard, but there are times when information that can be displayed on the steering dashboard are only available on the central dashboard. Something that should be able to be immediately accessed by the driver may include the tire pressure diplay that shows the pressure of all of the tires in the system.
   
-  2. Speed Display
+  ### 2. Speed Display
   Although the needle of the speedometer points to the current speed of the vehicle, it is a common preference to have a numerical display that tells the speed without having to follow where the needle is pointing. When the speed is displayed digitally, the driver will have easy visual of the current speed at which the vehicle is traveling.
   
-  3. Bright Dashboards
+  ### 3. Bright Dashboards
    There are some vehicles that have very bright dashboards that introduce to many vibrant colors. This can be distracting and confusing for the person operating the vehicle due to all the bright symbols and the introduction of numerous colors, especially displays that contain colors that are considered to be warning colors such as yellow and red.
 
 ## Features:
