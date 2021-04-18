@@ -79,6 +79,9 @@ There are some vehicles that have very bright dashboards that introduce to many 
  - Not paying attention to the road or focusing on other things
 
 ## My Design and Improvements
+<img width="1290" alt="Dashboard Design  (Illustrator)" src="https://user-images.githubusercontent.com/60491494/115132670-da04fb80-9fc7-11eb-8e23-3be53c6a18d4.png">
+
+
 ### Digital Display of Speed and RPM
  - The digital display will show the driver a clear visual of the speed at which they are traveling. Easy access to that data can help minimize distractions and help with speed regulation.
 
