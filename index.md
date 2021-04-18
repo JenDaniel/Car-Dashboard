@@ -82,11 +82,11 @@ There are some vehicles that have very bright dashboards that introduce to many 
 <img width="1290" alt="Dashboard Design  (Illustrator)" src="https://user-images.githubusercontent.com/60491494/115132670-da04fb80-9fc7-11eb-8e23-3be53c6a18d4.png">
 
 
-### Digital Display of Speed and RPM
+### 1. Digital Display of Speed and RPM
  - The digital display will show the driver a clear visual of the speed at which they are traveling. Easy access to that data can help minimize distractions and help with speed regulation.
 
-### Colorful Indicator of the Status of the Fuel and Coolant Temperature
+### 2. Colorful Indicator of the Status of the Fuel and Coolant Temperature
  - I introduced colored gradient bars to give a clear indicator of the amount of fuel left. When the tank is full, it shows the entire bar, but as the fuel is used, the bar shows red. The same concept applies for the coolant temperature. As the engine heats up, the gradient will move towards the red side. This will be a clear indicator for low fuel or an overheating engine because the color red is considered to be an evident warning signal.
 
-### Options for Vechicle Statistics on the Steering Dashboard
+### 3. Options for Vechicle Statistics on the Steering Dashboard
  - On the left side, there are options for viewing additional information in regards to the tires, trip, and navigation. This will make it easier for the driver to visualize the information they need and access it directly from the display in front of them rather than having to turn towards the center dashboard.
