@@ -27,6 +27,7 @@ public class SpeedometerNeedle : MonoBehaviour
     private float speed;
 
     public Text speedText;
+    bool spacePressed = false;
 
     private void Awake()
     {
@@ -42,37 +43,62 @@ public class SpeedometerNeedle : MonoBehaviour
 
     private void Update()
     {
-        handlePlayerInput();
-
+        
         // speed += 30f * Time.deltaTime;
         // if (speed > speedMax)
         // {
         //     speed = speedMax;
         // }
 
-        speedometerNeedleTransform.eulerAngles = new Vector3(0, 0, GetSpeedometerRotation());
-        int speedint = (int) speed;
-        speedText.text = speedint.ToString() + " MPH";
+    
+        handlePlayerInput();
+if (!spacePressed)
+        {
+            speedometerNeedleTransform.eulerAngles = new Vector3(0, 0, GetSpeedometerRotation());
+            int speedint = (int) speed;
+            speedText.text = speedint.ToString() + " MPH";
+         }
     }
 
     private void handlePlayerInput()
     {
-        if (Input.GetKey(KeyCode.UpArrow))
+           if (Input.GetKeyDown(KeyCode.Space))
         {
-            float acceleration = 50f;
-            speed += acceleration * Time.deltaTime;
+            // Debug.Log(speed);
+            // float acceleration = 0f;
+            // float deceleration = 0f;
+            // speed += acceleration - deceleration * Time.deltaTime;
+            spacePressed = !spacePressed;
         }
-        else
-        {
-            float deceleration = 20f;
-            speed -= deceleration * Time.deltaTime;
-        }
+       
+        
+        Debug.Log(spacePressed);
+       
+            if (Input.GetKey(KeyCode.UpArrow))
+            {
+                float acceleration = 50f;
+                speed += acceleration * Time.deltaTime;
+            }
 
-        if (Input.GetKey(KeyCode.DownArrow))
-        {
-            float brakeSpeed = 100f;
-            speed -= brakeSpeed * Time.deltaTime;
-        }
+            else  
+        
+            {
+                if (!spacePressed){
+ float deceleration = 20f;
+                speed -= deceleration * Time.deltaTime;
+                }
+               
+            }
+
+            if (Input.GetKey(KeyCode.DownArrow))
+            {
+                float brakeSpeed = 100f;
+                speed -= brakeSpeed * Time.deltaTime;
+            }
+
+        
+
+     
 
         speed = Mathf.Clamp(speed, 0f, speedMax);
     }
