@@ -90,3 +90,6 @@ There are some vehicles that have very bright dashboards that introduce to many 
 
 ### 3. Options for Vechicle Statistics on the Steering Dashboard
  - On the left side, there are options for viewing additional information in regards to the tires, trip, and navigation. This will make it easier for the driver to visualize the information they need and access it directly from the display in front of them rather than having to turn towards the center dashboard.
+
+![Design Demo](https://user-images.githubusercontent.com/60491494/115132891-be9af000-9fc9-11eb-978f-94112584d835.gif)
+
